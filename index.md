@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Recommended discord bots
+## Intro
+This list is a collection of discord bots that we reccomend you add to your server. The goal is that the list  provides all essential features necceasy so you won’t have to add any more bots. All features reviewed are free. Bots have to be user friendly, flexible, and stable. A bot dashboard is a plus. Contributions are welcome ;)
+## Wick
 
-You can use the [editor on GitHub](https://github.com/Galaxy-Coding/DiscordBots/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Quick info:**
+- [Invite](https://discord.com/oauth2/authorize?response_type=code&scope=bot+identify+guilds+applications.commands&client_id=536991182035746816&redirect_uri=https://wickbot.com/wauth/callback&permissions=8)
+- [Website](https://wickbot.com)
+- [Top.gg reviews](https://top.gg/bot/536991182035746816#reviews)
+- [Support](https://discord.gg/8C972nY)
+- Premium: Yes
+- Slash commands: No
+- Dashboard: Yes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Galaxy-Coding/DiscordBots/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Summary:** 
+This discord bot is a must. It’s not as user friendly, but that comes with a good discord bot. Fortunately the dashboard makes setup a little easier. The bot features advanced anti-raid, ant-nuke, and anti-spam. Manual bot commands are very advanced as well. If you feel a need to verify new members, the bot can do that as well. Let’s start with the anti-nuke system: If a user does dangerous things like kicking/banning many users in a short period of time, the bot takes action. Wick then qurantines all members that participated in the raid. A quarantine is when all roles & permissions are removed and the user is given the qurantine role. The qurantine role makes it so the user can’t do anything, not even see channels. The anti-spam system can detect bad words, spam, malicious websites, NSFW. It’s very customizable so you can set a custom action when a user sends an attachment or mentions an amount of users. Verification allows owners to send new members a captcha. Moderation commands are very advanced. You can purge messages based on requirements, lockdown channels, ban multiple members, and much more. This moderation bot features more moderation features than any other discord bot. This means that if you have wick in your server, you woudn’t need any other bots with moderation bot. 
